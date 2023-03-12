@@ -1,6 +1,3 @@
-/*I have taken the inspiration for the design part from a youtube video linked below:
-"https://youtu.be/afBUqeSeb-I"
-The file that takes the words as input for the program is also attached in the folder.*/
 
 #include<stdbool.h>
 #include<ctype.h>
@@ -12,7 +9,7 @@ int main()
 {
     //start screen
     printf("\n   ---HANGMAN---   \n");
-    printf("Brought to you by BS-BAP!\n");
+    printf("                     \n");
     printf("_____________   \n");
     printf("|        |      \n");
     printf("|        O      \n");
